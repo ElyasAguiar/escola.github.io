@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/escola-front/static/js/main.f450c52f.chunk.js",
+    "main.js.map": "/escola-front/static/js/main.f450c52f.chunk.js.map",
+    "runtime-main.js": "/escola-front/static/js/runtime-main.c2e3622d.js",
+    "runtime-main.js.map": "/escola-front/static/js/runtime-main.c2e3622d.js.map",
+    "static/css/2.f26e749f.chunk.css": "/escola-front/static/css/2.f26e749f.chunk.css",
+    "static/js/2.79759974.chunk.js": "/escola-front/static/js/2.79759974.chunk.js",
+    "static/js/2.79759974.chunk.js.map": "/escola-front/static/js/2.79759974.chunk.js.map",
+    "index.html": "/escola-front/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/escola-front/static/css/2.f26e749f.chunk.css.map",
+    "static/js/2.79759974.chunk.js.LICENSE.txt": "/escola-front/static/js/2.79759974.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e3622d.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.79759974.chunk.js",
+    "static/js/main.f450c52f.chunk.js"
+  ]
+}
