@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/escola-front/static/js/main.f450c52f.chunk.js",
-    "main.js.map": "/escola-front/static/js/main.f450c52f.chunk.js.map",
+    "main.js": "/escola-front/static/js/main.6cb1c856.chunk.js",
+    "main.js.map": "/escola-front/static/js/main.6cb1c856.chunk.js.map",
     "runtime-main.js": "/escola-front/static/js/runtime-main.c2e3622d.js",
     "runtime-main.js.map": "/escola-front/static/js/runtime-main.c2e3622d.js.map",
     "static/css/2.f26e749f.chunk.css": "/escola-front/static/css/2.f26e749f.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c2e3622d.js",
     "static/css/2.f26e749f.chunk.css",
     "static/js/2.79759974.chunk.js",
-    "static/js/main.f450c52f.chunk.js"
+    "static/js/main.6cb1c856.chunk.js"
   ]
 }
